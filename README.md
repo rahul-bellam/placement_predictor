@@ -66,7 +66,7 @@ Model Not Training Properly: Ensure that your dataset is correctly preprocessed 
 Pickle Error: Make sure that the version of Python and dependencies are consistent when saving and loading the model.
 
 ## Contributors
-[M.SRIKAR VARDHAN](https://github.com/M-SRIKAR-VARDHAN)
+[BELLAM RAHUL](https://github.com/rahul-bellam)
 
 ## License
 This project is licensed under the MIT License.
